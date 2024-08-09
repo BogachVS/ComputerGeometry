@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ground (Decimated 3D Scan)
+* source:	https://sketchfab.com/3d-models/ground-decimated-3d-scan-4d8669f815c54ed0a45e3b741dac0f90
+* author:	Mentalist (https://sketchfab.com/Mentailst)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ground (Decimated 3D Scan)" (https://sketchfab.com/3d-models/ground-decimated-3d-scan-4d8669f815c54ed0a45e3b741dac0f90) by Mentalist (https://sketchfab.com/Mentailst) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

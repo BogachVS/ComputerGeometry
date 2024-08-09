@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly girl
+* source:	https://sketchfab.com/3d-models/low-poly-girl-a29a999edaa94db2a7e045cb124fb387
+* author:	Biomonger (https://sketchfab.com/Biomonger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly girl" (https://sketchfab.com/3d-models/low-poly-girl-a29a999edaa94db2a7e045cb124fb387) by Biomonger (https://sketchfab.com/Biomonger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
